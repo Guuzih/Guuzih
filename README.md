@@ -1,4 +1,4 @@
-### Olá! EU sou Gustavo
+### Olá! Eu sou Gustavo
 
 - 🔭 Atualmente em migração de carreira, tive experiências profissionais que contribuíram bastante para o meu desenvolvimento emocional, pessoal e profissional.
 - 🌱 Desenvolvedor de Software com Foco em Back-end e estudando Front-end atualmente. 

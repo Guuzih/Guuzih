@@ -19,6 +19,3 @@
   
 </div>
 
-##
-
-![snake gif](https://github.com/Guuzih/Guuzih/blob/output/github-contribution-grid-snake.svg)
